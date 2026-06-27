@@ -1,0 +1,18 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "737 MAX 8 BBJ Improvement Project",
+  "manufacturer": "Boeing",
+  "creator": "Adrian Grey",
+  "package_version": "0.1.0-alpha",
+  "minimum_game_version": "1.0.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "2026-06-26",
+      "OlderHistory": [
+        "v0.1.0-alpha: Adds BBJ-style long-range fuel capacity to the default 737 MAX 8 BBJ preset using MSFS 2024 modular merge patching."
+      ]
+    }
+  },
+  "package_order_hint": "SIMOBJECTS_PATCH"
+}

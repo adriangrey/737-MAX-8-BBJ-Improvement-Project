@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# MSFS temporary/build files
+*.fspackage
+*.fspackage.*
+
+# Editor files
+.vscode/
+.idea/
