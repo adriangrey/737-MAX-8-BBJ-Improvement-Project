@@ -56,4 +56,4 @@ This first alpha uses a simple enlarged center tank to represent the missing BBJ
 
 Created by **Adrian Grey**.
 
-This project is an independent community improvement project and is not affiliated with Microsoft, Asobo Studio, or Boeing.
+This project is an independent community improvement project and is not affiliated with Microsoft, Asobo Studio, or Boeing. This project modifies configuration files for the default Microsoft Flight Simulator 2024 Boeing 737 MAX 8 BBJ. It does not include or redistribute Microsoft or Asobo assets. Users must own Microsoft Flight Simulator 2024 to use this project.
