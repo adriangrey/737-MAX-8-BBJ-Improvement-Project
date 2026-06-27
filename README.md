@@ -16,7 +16,7 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 - Does not modify Official files.
 - Does not affect the passenger MAX 8 preset.
 
-For visible cabin passengers in the BBJ, use MSFS 2024's native boarding service. GSX boarding currently does not populate the cabin because it does not trigger the native passenger occupancy system. I will be investigating a way to fix this later.
+For visual boarding and visible cabin passengers in the BBJ, use MSFS 2024's native boarding service. GSX boarding currently does not populate the cabin because it does not trigger the native passenger occupancy system. Loading via the EBF Simbrief app also works, though without the fancy animations of GSX or Natvie MSFS boarding.
 
 ## Installation
 

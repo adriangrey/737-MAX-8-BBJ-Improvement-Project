@@ -16,4 +16,4 @@ All notable changes to this project will be documented in this file.
 - Auxiliary fuel is currently represented by increasing center tank capacity.
 - Individual BBJ auxiliary tanks are not modeled yet.
 - Weight, payload, and performance tuning are not complete yet.
-- Native MSFS 2024 boarding/pax visibility (via the ATC panel in game) works. GSX does not. Will investigate a way to fix this.
+- Native MSFS 2024 boarding/pax visibility (via the ATC panel in game) works. GSX does not. Instant loading via the EFB Simbrief app also works.
