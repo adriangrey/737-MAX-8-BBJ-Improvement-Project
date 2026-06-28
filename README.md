@@ -8,6 +8,11 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 
 **0.1.0-alpha**
 
+## Current Status
+
+This project has been validated on long-range flights, including KPHX → EGLL, and is considered suitable for normal use. However, it is still an alpha release and additional testing across different routes, weather conditions, and payloads is encouraged.
+For visual boarding and visible cabin passengers in the BBJ, use MSFS 2024's native boarding service. GSX boarding currently does not populate the cabin because it does not trigger the native passenger occupancy system. Loading via the EBF Simbrief app also works, though without the fancy animations of GSX or Natvie MSFS boarding.
+
 ## What This Version Changes
 
 - Increases the default BBJ preset fuel capacity from approximately **45,694 lb** to approximately **69,499 lb**.
@@ -15,8 +20,6 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 - Only affects the `b737max8_bbj` preset.
 - Does not modify Official files.
 - Does not affect the passenger MAX 8 preset.
-
-For visual boarding and visible cabin passengers in the BBJ, use MSFS 2024's native boarding service. GSX boarding currently does not populate the cabin because it does not trigger the native passenger occupancy system. Loading via the EBF Simbrief app also works, though without the fancy animations of GSX or Natvie MSFS boarding.
 
 ## Installation
 
