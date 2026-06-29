@@ -28,7 +28,7 @@ For visual boarding and visible cabin passengers in the BBJ, use MSFS 2024's nat
 2. Copy `737max8-bbj-improvement-project` into your MSFS 2024 Community folder.
 3. Restart MSFS 2024.
 4. Select the default Boeing 737 MAX 8 BBJ preset.
-5. Fuel capacity should show approximately **69,499 lb**.
+5. Fuel capacity should show **69,499 lb**.
 
 ## Removal
 
