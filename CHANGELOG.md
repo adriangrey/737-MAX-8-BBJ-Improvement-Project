@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Targets only the default Boeing 737 MAX 8 BBJ preset.
 - Initial SimBrief airframe profile for long-range BBJ operations.
 - Initial project documentation.
+- Correct range now listed on Aircraft Selections specifications card.
 
 ### Verified
 

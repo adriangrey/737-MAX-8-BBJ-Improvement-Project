@@ -1,15 +1,16 @@
 # Roadmap
 
-## v0.1.0-alpha
+## v0.1.1-alpha
 
-- ✅ Increase BBJ fuel capacity to approximately 69,500 lb.
-- ✅ Use a clean MSFS 2024 modular merge patch.
-- ✅ Target only the default 737 MAX 8 BBJ preset.
-- ✅ Correct aircraft selection specifications.
+-  Increase BBJ fuel capacity to approximately 69,500 lb.
+-  Use a clean MSFS 2024 modular merge patch.
+-  Target only the default 737 MAX 8 BBJ preset.
+-  Correct aircraft selection specifications.
   - Range
   - Fuel Capacity
-- ✅ Initial SimBrief profile.
-- ✅ Initial project documentation.
+-  Initial SimBrief profile.
+-  Initial project documentation.
+-  Correct range now listed on Aircraft Selections specifications card.
 
 ---
 
@@ -29,4 +30,3 @@
 - Validate real-world BBJ performance.
 - Long-range mission testing.
 - Expanded documentation.
-- Public release candidate.
