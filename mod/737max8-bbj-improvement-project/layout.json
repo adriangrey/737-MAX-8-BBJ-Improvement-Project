@@ -2,18 +2,18 @@
   "content": [
     {
       "path": "README.txt",
-      "size": 223,
-      "date": 132000000000000000
+      "size": 2367,
+      "date": 134270695042995921
+    },
+    {
+      "path": "SimObjects/Airplanes/asobo_b737max/presets/asobo/b737max8_bbj/config/aircraft.cfg",
+      "size": 63,
+      "date": 134271745354283763
     },
     {
       "path": "SimObjects/Airplanes/asobo_b737max/presets/asobo/b737max8_bbj/config/flight_model.cfg",
-      "size": 770,
-      "date": 132000000000000000
-    },
-    {
-      "path": "manifest.json",
-      "size": 545,
-      "date": 132000000000000000
+      "size": 415,
+      "date": 134271713627961803
     }
   ]
 }
