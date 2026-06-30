@@ -17,7 +17,7 @@ For visual boarding and visible cabin passengers in the BBJ, use MSFS 2024's nat
 
 - Increases the default BBJ preset fuel capacity from **45,694 lb** to **69,499 lb**.
 - Correct range now listed on Aircraft Selections specifications card.
-- Disables MSFS 2024 Native Boarding System, instant loading from EFB Weight/Balance screen and SimBrief now possible.
+- Disables MSFS 2024 Native Boarding System, instant loading from EFB Weight/Balance screen and SimBrief now possible/Always works.
 - Uses MSFS 2024 modular merge patching.
 - Only affects the `b737max8_bbj` preset.
 - Does not modify Official files.
@@ -47,6 +47,7 @@ Alpha v0.1.x
 ~~SimBrief compatibility~~
 ~~Range specs card corrected to 6550nm~~
 ~~UI polish (manufacturer/model localization)~~
+~~MSFS Native Boarding System Diabled~~
 
 Alpha v0.2.x
 
