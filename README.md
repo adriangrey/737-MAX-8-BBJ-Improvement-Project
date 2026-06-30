@@ -37,25 +37,25 @@ Delete `737max8-bbj-improvement-project` from your Community folder and restart 
 ## Known Limitations
 
 This first alpha uses a simple enlarged center tank to represent the missing BBJ auxiliary fuel capacity. Future versions may model individual auxiliary tanks, payload stations, and additional BBJ-specific operating characteristics if the default aircraft supports those changes cleanly. 
-Native BBJ passenger occupancy:MSFS 2024 supports 12 visible cabin passengers in the BBJ interior. The aircraft weight and balance screen shows 14 total seats, which appears to include pilot and copilot stations. The copilot station is represented in payload but is not visually populated in the cockpit. Several additional VIP cabin seats are modeled but are not currently used by the native passenger occupancy system.
 
-## Project Structure
+## Current Roadmap
 
-```text
-737max8-bbj-improvement-project/
-├── README.md
-├── CHANGELOG.md
-├── LICENSE.md
-├── .gitignore
-├── docs/
-│   └── roadmap.md
-├── mod/
-│   └── 737max8-bbj-improvement-project/
-│       ├── manifest.json
-│       ├── layout.json
-│       └── SimObjects/
-└── screenshots/
-```
+Alpha v0.1.x
+
+~~Fuel capacity~~
+~~SimBrief compatibility~~
+~~Range specs card corrected to 6550nm~~
+~~UI polish (manufacturer/model localization)~~
+
+Alpha v0.2.x
+
+Use empty seats in cabin for more pax
+Visible Co-Pilot
+Autopilot tuning
+GSX improvements
+Flight model refinement
+
+Release v1.0
 
 ## Credits
 
