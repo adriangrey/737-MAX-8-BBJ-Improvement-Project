@@ -15,8 +15,7 @@ All notable changes to this project will be documented in this file.
 - Correct range now listed on Aircraft Selections specifications card.
 - Disabled forced native passenger boarding for the BBJ preset.
 - Restored instant payload loading through the default EFB Weight & Balance page.
-- Simbreif weight import now always works, and loading is instant.
-- Improved compatibility with external ATC and GSX-style workflows.
+- Simbrief weight import now always works, and loading is instant.
 
 ### Known Limitations
 

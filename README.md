@@ -48,6 +48,8 @@ Alpha v0.1.x
 ~~Range specs card corrected to 6550nm~~
 ~~UI polish (manufacturer/model localization)~~
 ~~MSFS Native Boarding System Diabled~~
+~~Instant loading via EFB W/B Screen~~
+~~Instant loading via Simbrief Dispatch~~
 
 Alpha v0.2.x
 
