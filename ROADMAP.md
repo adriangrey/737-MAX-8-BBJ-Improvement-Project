@@ -4,8 +4,8 @@ Alpha v0.1.x
 
 ~~Fuel capacity~~
 ~~SimBrief compatibility~~
-~~Range card~~
-~~UI polish (manufacturer/model localization, correct max range on specs card)~~
+~~Range specs card corrected to 6550nm~~
+~~UI polish (manufacturer/model localization)~~
 
 Alpha v0.2.x
 
