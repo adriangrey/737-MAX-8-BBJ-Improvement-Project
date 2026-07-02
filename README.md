@@ -42,21 +42,21 @@ This first alpha uses a simple enlarged center tank to represent the missing BBJ
 
 Alpha v0.1.x
 
-~~Fuel capacity~~
-~~SimBrief compatibility~~
-~~Range specs card corrected to 6550nm~~
-~~UI polish (manufacturer/model localization)~~
-~~MSFS Native Boarding System Diabled~~
-~~Instant loading via EFB W/B Screen~~
-~~Instant loading via Simbrief Dispatch~~
+- ~~Fuel capacity~~
+- ~~SimBrief compatibility~~
+- ~~Range specs card corrected to 6550nm~~
+- ~~UI polish (manufacturer/model localization)~~
+- ~~MSFS Native Boarding System Diabled~~
+- ~~Instant loading via EFB W/B Screen~~
+- ~~Instant loading via Simbrief Dispatch~~
 
 Alpha v0.2.x
 
-Use empty seats in cabin for more pax
-Visible Co-Pilot
-Autopilot tuning
-GSX improvements
-Flight model refinement
+- Use empty seats in cabin for more pax
+- Visible Co-Pilot
+- Autopilot tuning
+- GSX improvements
+- Flight model refinement
 
 Release v1.0
 
