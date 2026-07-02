@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 - Disabled forced native passenger boarding for the BBJ preset.
 - Restored instant payload loading through the default EFB Weight & Balance page.
 - Simbrief weight import now always works, and loading is instant.
-- Bug fix: Fixed a typo in aircraft.cfg and flight_model.cfg that lowered the avalible seats by 2.
+- Bug fix: Fixed a typo in aircraft.cfg and flight_model.cfg that lowered the available seats by 2.
 
 ### Known Limitations
 
