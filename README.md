@@ -6,7 +6,7 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 
 ## Current Version
 
-**v0.1.2**
+**v0.1.3**
 
 ## Current Status
 
