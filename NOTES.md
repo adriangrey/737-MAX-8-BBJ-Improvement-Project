@@ -1,1 +1,2 @@
+Giving you my notes so I can delete the extra file with one line of text lol
 "full" seats in game on the 737 max 8 bbj is 14 people. 12 pax are visible. 14 including the pilot (me) and the co-pilot, who is present in the weight and balance screen but not visible in the cockpit. There are 4 empty club seats, and space for around 4-5 more on lounge seating throughout the cabin. Changing capacity in aircraft.cfg and flight_model.cfg did not magically make more pax appear in the cabin.
