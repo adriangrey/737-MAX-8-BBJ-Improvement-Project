@@ -7,13 +7,13 @@
     },
     {
       "path": "SimObjects/Airplanes/Asobo_B737Max/presets/asobo/b737max8_bbj/config/flight_model.cfg",
-      "size": 493,
-      "date": 134275849783360242
+      "size": 412,
+      "date": 134276014952458819
     },
     {
       "path": "SimObjects/Airplanes/Asobo_B737Max/presets/asobo/b737max8_bbj/navigation_graph/navigation_graph_passenger.cfg",
-      "size": 7175,
-      "date": 134275866456675994
+      "size": 7041,
+      "date": 134276014944808794
     }
   ]
 }
