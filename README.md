@@ -10,7 +10,7 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 
 ## Current Status
 
-This project has been validated on long-range flights, including KPHX → EGLL, and is considered suitable for normal use. However, it is still an alpha release and additional testing across different routes, weather conditions, and payloads is encouraged.
+This project has been validated on multiple short and long range (past the original 3200nm range fo the default plane) long-range flights, and is considered suitable for normal use. However, it is still an alpha release and additional testing across different routes, weather conditions, and payloads is encouraged.
 
 ## What This Version Changes
 
@@ -46,7 +46,7 @@ Alpha v0.1.x
 - ~~SimBrief compatibility~~
 - ~~Range specs card corrected to 6550nm~~
 - ~~UI polish (manufacturer/model localization)~~
-- ~~MSFS Native Boarding System Diabled~~
+- ~~MSFS Native Boarding System Disabled~~
 - ~~Instant loading via EFB W/B Screen~~
 - ~~Instant loading via Simbrief Dispatch~~
 

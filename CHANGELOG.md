@@ -26,4 +26,3 @@ All notable changes to this project will be documented in this file.
 * GSX boarding does not currently populate the native cabin occupancy system.
 * ~~Unable to instantly load pax from EFB W/B screen.~~
 * Additional real-world performance validation and fuel burn tuning are ongoing.
-* Native BBJ passenger occupancy: MSFS 2024 supports 12 visible cabin passengers in the BBJ interior. The aircraft weight and balance screen shows 14 total seats, which appears to include pilot and copilot stations. The copilot station is represented in payload but is not visually populated in the cockpit. Several additional VIP cabin seats are modeled but are not currently used by the native passenger occupancy system.
