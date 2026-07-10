@@ -56,7 +56,6 @@ Alpha v0.2.x
 - Use empty seats in cabin for more pax
 - Visible Co-Pilot
 - ~~Autopilot tuning~~
-- GSX improvements
 - Flight model refinement
 
 Release v1.0
