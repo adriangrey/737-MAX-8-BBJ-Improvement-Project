@@ -6,7 +6,7 @@ A Microsoft Flight Simulator 2024 improvement project for the default Asobo Boei
 
 ## Current Version
 
-**v0.1.3**
+**v0.2.0**
 
 ## Current Status
 
@@ -15,6 +15,7 @@ This project has been validated on multiple short and long range (past the origi
 ## What This Version Changes
 
 - Increases the default BBJ preset fuel capacity from **45,694 lb** to **69,499 lb**.
+- Adds autopilot tuning for smoother pitch, roll, and throttle behavior.
 - Correct range now listed on Aircraft Selections specifications card.
 - Disables MSFS 2024 Native Boarding System, instant loading from EFB Weight/Balance screen and SimBrief now possible/Always works.
 - Uses MSFS 2024 modular merge patching.
@@ -54,7 +55,7 @@ Alpha v0.2.x
 
 - Use empty seats in cabin for more pax
 - Visible Co-Pilot
-- Autopilot tuning
+- ~~Autopilot tuning~~
 - GSX improvements
 - Flight model refinement
 
